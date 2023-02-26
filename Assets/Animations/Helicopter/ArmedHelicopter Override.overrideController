@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ArmedHelicopter Override
+  m_Controller: {fileID: 9100000, guid: 8f736beaed190f744a0810d6b1f49829, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 840a3f6b217200148a5de8a57b7a097e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: de3d4989433d22242b7b4817940e0f0d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3ee15b75338ddc24b96ec3920a56ae08, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: de283dace694e2f4a97b0d12c0b1c309, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 084d6efbaec114e4c94cfa1c80c0f553, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1783124043a9ba4fb23ef84f0662271, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: af4d600eca0c6f947a3439d5de6b2d32, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 963442842022eb74ab8272158e7f88c1, type: 2}
